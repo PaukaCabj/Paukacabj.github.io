@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Assistant', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;font-size: 0,5cm}
+
+.container {
+    display: flex;
+    padding: 0 18%;
+
+}
+
+aside {
+    width: 30%;
+    background-color: rgb(153, 141, 228);
+    padding: 5%;
+    color: rgb(8, 2, 2);
+    font-size: 80%;
+    
+}
+
+main{
+    width: 70%;
+    background-color: rgb(209, 210, 253);
+}
+
+.avatar img {
+    width: 100%;
+    border-radius: 50%;
+    box-shadow: 0 0 10px white;
+    margin-bottom: 10px;
+
+}
+
+.flex-container {
+    display: flex;
+}
+
+.margin-title {
+    margin: 30px 10px 0;}
+
+.margin-icon {
+    margin-right: 10px;}
+
+.margin-row {
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 50px;
+    color: rgba(34, 34, 112, 0.712);
+    margin-left: 5%;
+}
+hr {
+    width: 10%;
+    background-color: gray;
+    border-style: inset;
+    height: 4px;
+    margin: 2% 0;
+}
+h2 {
+    color: rgb(255, 255, 255);
+    margin-left: 10cm;
+}
+
+h5 { color: rgb(9, 138, 67);
+margin-left: 20px;}
+h4 { color: blue;
+margin-left: 20px;
+margin-top: 2%;
+}
+h3 { color: rgb(75, 6, 235);}
+
+.punto {
+    margin-left: 5%;
+}
+.punto {
+    margin-left: 5%;
+    margin-top: auto;
+}
